@@ -25,7 +25,7 @@ The provided Python script performs several preprocessing steps on flight data:
     ```
 2. **Install Dependencies**: Ensure you have Python and necessary libraries installed. You can install the required libraries using pip:
     ```
-    pip install requirements.txt
+    pip install pandas numpy scikit-learn
     ```
 3. **Data Preparation**: Place the 'Data_Train.xlsx' and 'Test_set.xlsx' files in the same directory as the script.
 4. **Run the Script**: Execute the script to preprocess the flight data:
